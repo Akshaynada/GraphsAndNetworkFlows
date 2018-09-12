@@ -7,6 +7,8 @@ Team Members
 3. Cyrus Tabatabai-Yazdi
 4. Bakari Hassan
 
+------------------------------------------
+
 1. Social Network Mining 
 
 a. Facebook dataset 
