@@ -1,6 +1,11 @@
 # GraphsAndNetworkFlows
 EE232 ( Graphs and Network Flows ) Projects
 
+Team Members 
+1. Akshay Shetty
+2. Zongheng Ma
+3. Cyrus Tabatabai-Yazdi
+4. Bakari Hassan
 
 1. Social Network Mining 
 
