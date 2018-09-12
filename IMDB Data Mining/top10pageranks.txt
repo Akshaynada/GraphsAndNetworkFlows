@@ -1,0 +1,10 @@
+Roberts, Eric (I) played in 298 movies with an indegree of 3548 and has a PageRank of 0.00010804842088130894
+Jeremy, Ron played in 637 movies with an indegree of 2895 and has a PageRank of 0.00010253491711292154
+Trejo, Danny played in 241 movies with an indegree of 3493 and has a PageRank of 9.844030176275503e-05
+Flowers, Bess played in 828 movies with an indegree of 7534 and has a PageRank of 9.470194329912535e-05
+Hitler, Adolf played in 379 movies with an indegree of 3838 and has a PageRank of 8.974618715127251e-05
+Jackson, Samuel L. played in 159 movies with an indegree of 3406 and has a PageRank of 8.921011096569256e-05
+Harris, Sam (II) played in 600 movies with an indegree of 6954 and has a PageRank of 8.669008687610088e-05
+Riehle, Richard played in 197 movies with an indegree of 3012 and has a PageRank of 8.472969030060964e-05
+De Niro, Robert played in 138 movies with an indegree of 3293 and has a PageRank of 8.23397573543209e-05
+Miller, Harold (I) played in 561 movies with an indegree of 6581 and has a PageRank of 8.193839168475669e-05

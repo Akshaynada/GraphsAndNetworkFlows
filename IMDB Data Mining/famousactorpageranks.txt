@@ -1,0 +1,19 @@
+Cruise, Tom has a PageRank Score of 4.310470312478519e-05, played in 63 movies and has an in-degree of 1638.
+
+Watson, Emma (II) has a PageRank Score of 1.2940805290589618e-05, played in 25 movies and has an in-degree of 423.
+
+Clooney, George has a PageRank Score of 4.1930336003596427e-05, played in 67 movies and has an in-degree of 1567.
+
+Hanks, Tom has a PageRank Score of 5.169636196483983e-05, played in 80 movies and has an in-degree of 2038.
+
+Johnson, Dwayne (I) has a PageRank Score of 3.806497865112352e-05, played in 78 movies and has an in-degree of 1347.
+
+Depp, Johnny has a PageRank Score of 5.550938869137444e-05, played in 98 movies and has an in-degree of 2111.
+
+Smith, Will (I) has a PageRank Score of 3.443912667565904e-05, played in 49 movies and has an in-degree of 1285.
+
+Streep, Meryl has a PageRank Score of 4.137957995527635e-05, played in 97 movies and has an in-degree of 1580.
+
+DiCaprio, Leonardo has a PageRank Score of 3.5010899938998565e-05, played in 49 movies and has an in-degree of 1296.
+
+Pitt, Brad has a PageRank Score of 4.620426521389307e-05, played in 71 movies and has an in-degree of 1736.

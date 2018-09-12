@@ -1,0 +1,6 @@
+[ 6.7  4.8  6.2 ...,  7.1  7.   7.3]
+The average rating for the neighbors of Batman v Superman: Dawn of Justice (2016) is 6.296149217809868
+[ 7.3  6.   7.7 ...,  3.1  5.2  5.5]
+The average rating for the neighbors of Mission: Impossible - Rogue Nation (2015) is 6.232208588957055
+[ 6.6  7.   5.5 ...,  5.2  8.2  7.1]
+The average rating for the neighbors of Minions (2015) is 6.384615384615385

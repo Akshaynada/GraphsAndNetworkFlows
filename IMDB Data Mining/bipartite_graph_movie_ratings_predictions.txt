@@ -1,0 +1,5 @@
+Batman v Superman: Dawn of Justice (2016) has a projected rating of 6.309814202379625 using the bipartite graph approach.
+Mission: Impossible - Rogue Nation (2015) has a projected rating of 6.43364635369057 using the bipartite graph approach.
+Minions (2015) has a projected rating of 6.55328945154326 using the bipartite graph approach.
+
+The RMSE is 1.0216797519711616

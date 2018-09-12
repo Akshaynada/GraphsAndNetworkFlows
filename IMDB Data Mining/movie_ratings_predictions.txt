@@ -1,0 +1,4 @@
+Batman v Superman: Dawn of Justice (2016) has a predicted rating of 6.098339723987545
+Mission: Impossible - Rogue Nation (2015) has a predicted rating of 6.0909665779815105
+Minions (2015) has a predicted rating of 6.257500607621418
+The RMSE on the training set is 1.2278532269353823

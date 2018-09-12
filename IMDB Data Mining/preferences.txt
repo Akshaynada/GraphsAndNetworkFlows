@@ -1,0 +1,19 @@
+Cruise, Tom prefers to work most with Kidman, Nicole. The weight of the edge between them is 0.1746031746031746
+
+Watson, Emma (II) prefers to work most with Radcliffe, Daniel. The weight of the edge between them is 0.52
+
+Clooney, George prefers to work most with Damon, Matt. The weight of the edge between them is 0.11940298507462686
+
+Hanks, Tom prefers to work most with Allen, Tim (I). The weight of the edge between them is 0.1125
+
+Johnson, Dwayne (I) prefers to work most with Austin, Steve (IV). The weight of the edge between them is 0.20512820512820512
+
+Depp, Johnny prefers to work most with Bonham Carter, Helena. The weight of the edge between them is 0.08163265306122448
+
+Smith, Will (I) prefers to work most with Foster, Darrell. The weight of the edge between them is 0.12244897959183673
+
+Streep, Meryl prefers to work most with Kline, Kevin (I). The weight of the edge between them is 0.061855670103092786
+
+DiCaprio, Leonardo prefers to work most with Scorsese, Martin. The weight of the edge between them is 0.10204081632653061
+
+Pitt, Brad prefers to work most with Clooney, George. The weight of the edge between them is 0.09859154929577464
